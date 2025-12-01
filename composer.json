@@ -1,0 +1,17 @@
+{
+    "name": "viniciolimadev/buscador-cursos",
+    "description": "Buscador de cursos - projeto do curso de composer da alura",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Viniciolimadev\\BuscadorCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "viniciolimadev",
+            "email": "dev.vinicio@gmail.com"
+        }
+    ],
+    "require": {}
+}
